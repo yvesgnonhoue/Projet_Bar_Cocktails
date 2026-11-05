@@ -1,0 +1,22 @@
+
+---
+[alice] prêt pour prendre une nouvelle commande...
+[alice] j'ai la commande '["jus d'orange", " jus d'anana"]'
+[alice] j'écris sur le post-it '["jus d'orange", " jus d'anana"]'
+[bob] je commence la fabrication de '["jus d'orange", " jus d'anana"]'
+[bob] je prépare 'jus d'orange'
+[bob] je prépare ' jus d'anana'
+[bob] la commande ["jus d'orange", " jus d'anana"] est prête
+[alice] j'apporte la commande '["jus d'orange", " jus d'anana"]'
+[alice] je sers 'jus d'orange'
+[alice] je sers ' jus d'anana'
+[alice] prêt pour prendre une nouvelle commande...
+[alice] j'ai la commande '['sprite', ' coca']'
+[alice] j'écris sur le post-it '['sprite', ' coca']'
+[bob] je commence la fabrication de '['sprite', ' coca']'
+[bob] je prépare 'sprite'
+[bob] je prépare ' coca'
+[bob] la commande ['sprite', ' coca'] est prête
+[alice] j'apporte la commande '['sprite', ' coca']'
+[alice] je sers 'sprite'
+[alice] je sers ' coca'
